@@ -19,7 +19,7 @@ The goal is for the selected player to respond to questions or complete challeng
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/TruthAndDear-Electron.git
+   git clone https://github.com/yourusername/TruthOrDear-Electron.git
 
 2. **Install dependencies**
    ```bash
@@ -38,4 +38,4 @@ The goal is for the selected player to respond to questions or complete challeng
 
 ---
 
-Thank you for checking out Truth and Dear! Have fun playing:)
+Thank you for checking out *Truth & Dear*! Have fun playing:)
